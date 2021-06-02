@@ -1,4 +1,5 @@
 # awesome-lamden
+
 A collection of resources and community additions to our Lamden ecosystem!
 
 ### Dapps
@@ -13,5 +14,6 @@ A collection of resources and community additions to our Lamden ecosystem!
 
 ### Explorers
 
+* Taumarketcap - Informations about most tokens on the Lamden ecosystem, helpful resources about the blockchain and more (https://taumarketcap.com/)
 * Tau HQ - Community developed mainnet explorer with robust feature-set such as token prices and DEX trades (https://tauhq.com)
 * Mainnet Explorer - The Lamden team developed explorer with a lean feature set (https://mainnet.lamden.io/)
