@@ -21,3 +21,6 @@ A collection of resources and community additions to our Lamden ecosystem!
 * Tau HQ - Community developed mainnet explorer with robust feature-set such as token prices and DEX trades (https://tauhq.com)
 * Mainnet Explorer - The Lamden team developed explorer with a lean feature set (https://mainnet.lamden.io/)
 * Testnet Explorer - The Lamden team developed Testnet explorer (https://mainnet.lamden.io/)
+
+### Wallets
+* Ledger Cold Wallet Integration (https://github.com/shoutcool/ledger-app-tau)
