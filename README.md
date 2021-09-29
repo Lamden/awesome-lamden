@@ -6,6 +6,7 @@ A collection of resources and community additions to our Lamden ecosystem!
 
 * Rocketswap - A decentralized AMM for Lamden tokens (https://rocketswap.exchange/)
 * Rubix - A complete DAO implementation with stablecoin (https://rubixdao.com/)
+* Underground Warriors - A Play To Earn battle game (https://undergroundwarriors.io/)
 
 ### Resources
 
